@@ -1,40 +1,7 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text"
-    },
-    {
-        "title": "PickUp",
-        "text": "Pick Up Children",
-        "id": 3
-    },
-    {
-        "title": "Shopping",
-        "text": "get groceries",
-        "id": 4
-    },
-    {
-        "title": "Fishing",
-        "text": "catch some fish",
-        "id": 3
-    },
-    {
-        "title": "Skiing",
-        "text": "pick up friend to go skiiing"
-    },
-    {
-        "title": "Term Paper",
-        "text": "turn in papa",
-        "id": 5
-    },
-    {
-        "title": "Dinner ",
-        "text": "make dinner",
-        "id": 7
-    },
-    {
-        "title": "New Task",
-        "text": "whatever",
-        "id": 7
+        "title": "Lesson Plan",
+        "text": "- copy worksheets\n- hand out worksheets\n- quiet work\n\n",
+        "id": "d5x5rwlfulb9un2fq"
     }
 ]
